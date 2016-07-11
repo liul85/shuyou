@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Shu You 书友</title>
+    <link>http://shuyou.online/about/</link>
+    <description>Recent content in Abouts on Shu You 书友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    <atom:link href="http://shuyou.online/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于我们</title>
+      <link>http://shuyou.online/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://shuyou.online/about/about/</guid>
+      <description>&lt;p&gt;做你最好的读书朋友&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
